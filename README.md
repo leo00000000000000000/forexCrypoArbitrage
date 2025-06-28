@@ -24,7 +24,7 @@ To set up and run the project, follow these steps:
 2.  **Backend Setup:**
     Navigate to the `forex-spider-trader` directory:
     ```bash
-    cd /Users/leo/forex-spider-trader
+    cd forex-spider-trader
     ```
     Install backend dependencies:
     ```bash
@@ -34,7 +34,7 @@ To set up and run the project, follow these steps:
 3.  **Frontend Setup:**
     Navigate to the `client` directory:
     ```bash
-    cd /Users/leo/forex-spider-trader/client
+    cd forex-spider-trader/client
     ```
     Install frontend dependencies:
     ```bash
@@ -46,7 +46,7 @@ To set up and run the project, follow these steps:
 1.  **Start the Backend Server:**
     Open a new terminal and navigate to the `forex-spider-trader` directory:
     ```bash
-    cd /Users/leo/forex-spider-trader
+    cd forex-spider-trader
     node server.js
     ```
     The server will start on `http://localhost:3001`.
@@ -54,7 +54,7 @@ To set up and run the project, follow these steps:
 2.  **Start the React Frontend:**
     Open another terminal and navigate to the `client` directory:
     ```bash
-    cd /Users/leo/forex-spider-trader/client
+    cd forex-spider-trader/client
     npm start
     ```
     This will open the application in your default web browser, usually at `http://localhost:3000`.
